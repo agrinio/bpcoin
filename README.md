@@ -1,0 +1,4 @@
+bpcoin
+======
+
+Cryptocurrency coin
